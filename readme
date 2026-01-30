@@ -15,6 +15,10 @@ step 6: topic modeling: we applied topic modling into our data
 
 api files 
 
-1. news_api.py
-2. reddit.py 
-3. rapid.py
+1. news.py
+2. Reddit_api.py 
+3. Rapid_api.py
+
+
+data files
+“Data files are not included due to size. Scripts reproduce them.”
