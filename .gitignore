@@ -1,3 +1,10 @@
+# Large data folders
+Generated Data/
+Final Data/
+data/
+*.xlsx
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
